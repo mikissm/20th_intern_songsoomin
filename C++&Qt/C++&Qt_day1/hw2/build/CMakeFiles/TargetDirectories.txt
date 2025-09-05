@@ -1,3 +1,0 @@
-/home/ssm/intern_work_space/day1/hw2/build/CMakeFiles/test.dir
-/home/ssm/intern_work_space/day1/hw2/build/CMakeFiles/edit_cache.dir
-/home/ssm/intern_work_space/day1/hw2/build/CMakeFiles/rebuild_cache.dir
