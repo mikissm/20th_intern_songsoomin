@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hw1.dir/hw1_autogen/mocs_compilation.cpp.o CMakeFiles/hw1.dir/src/main.cpp.o CMakeFiles/hw1.dir/src/mainwindow.cpp.o -o hw1  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

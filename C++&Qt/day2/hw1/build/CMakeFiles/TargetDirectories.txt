@@ -1,0 +1,4 @@
+/home/ssm/intern_work_space/day2/hw1/build/CMakeFiles/hw1.dir
+/home/ssm/intern_work_space/day2/hw1/build/CMakeFiles/edit_cache.dir
+/home/ssm/intern_work_space/day2/hw1/build/CMakeFiles/rebuild_cache.dir
+/home/ssm/intern_work_space/day2/hw1/build/CMakeFiles/hw1_autogen.dir
