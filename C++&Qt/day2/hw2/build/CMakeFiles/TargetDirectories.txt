@@ -1,0 +1,4 @@
+/home/ssm/intern_work_space/day2/hw2/build/CMakeFiles/hw2.dir
+/home/ssm/intern_work_space/day2/hw2/build/CMakeFiles/edit_cache.dir
+/home/ssm/intern_work_space/day2/hw2/build/CMakeFiles/rebuild_cache.dir
+/home/ssm/intern_work_space/day2/hw2/build/CMakeFiles/hw2_autogen.dir
