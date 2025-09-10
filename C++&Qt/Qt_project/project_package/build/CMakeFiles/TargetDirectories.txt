@@ -1,8 +1,0 @@
-/home/ssm/intern_ws/project/project_package/build/CMakeFiles/project.dir
-/home/ssm/intern_ws/project/project_package/build/CMakeFiles/edit_cache.dir
-/home/ssm/intern_ws/project/project_package/build/CMakeFiles/rebuild_cache.dir
-/home/ssm/intern_ws/project/project_package/build/CMakeFiles/list_install_components.dir
-/home/ssm/intern_ws/project/project_package/build/CMakeFiles/install.dir
-/home/ssm/intern_ws/project/project_package/build/CMakeFiles/install/local.dir
-/home/ssm/intern_ws/project/project_package/build/CMakeFiles/install/strip.dir
-/home/ssm/intern_ws/project/project_package/build/CMakeFiles/project_autogen.dir
