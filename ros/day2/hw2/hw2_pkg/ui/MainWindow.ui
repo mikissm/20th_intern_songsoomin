@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>314</width>
+    <height>279</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="ww">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>90</y>
+      <width>95</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>앞</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="aa">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>160</y>
+      <width>95</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>왼쪽 돌기</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="ss">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>160</y>
+      <width>95</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>뒤</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="dd">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>160</y>
+      <width>95</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>오른쪽 돌기</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn3">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>95</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>원</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn1">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>10</y>
+      <width>95</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>삼각형</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btn2">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>10</y>
+      <width>95</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>사각형</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>314</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
