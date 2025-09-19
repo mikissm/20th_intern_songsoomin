@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>hw1_pkg</name>
+  <version>0.0.0</version>
+  <description>Example package using OpenCV</description>
+  <maintainer email="you@email.com">Your Name</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <build_depend>rclcpp</build_depend>
+  <exec_depend>rclcpp</exec_depend>
+
+  <!-- 👇 여기에 추가 -->
+  <build_depend>opencv4</build_depend>
+  <exec_depend>opencv4</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
+
