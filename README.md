@@ -38,3 +38,10 @@
   - day4
     - hw1    O
     - hw2    O
+
+- OpenCV
+  - day1
+    - hw1    O
+    - hw2    O
+  - day2
+    - hw1    O
